@@ -1,7 +1,9 @@
 # Video #223: ESP-NOW
-A simple protocol from Espressif to allow IOT devices to send (and receive) data to (from) a central unit or peer devices
+A simple protocol from Espressif to allow IOT devices to send (and receive) data to (from) a central unit or peer devices - no complex configuration required!
 
 ![thumbnail-small](https://user-images.githubusercontent.com/20911308/128730504-5faad6a5-eed1-4ec0-a6f7-82eaf8529919.png)
+
+## See video #223 on Youtube: https://youtu.be/lkHdk_mKGUw
 
 MIT License
 
