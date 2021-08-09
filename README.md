@@ -1,5 +1,5 @@
 # 223-ESP-NOW
-A simple protocol from Espressif to allow IOT devices send data to a central unit
+A simple protocol from Espressif to allow IOT devices to send (and receive) data to (from) a central unit or peer devices
 
 MIT License
 
